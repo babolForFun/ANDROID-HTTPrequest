@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTTPrequests</string>
+    <string name="txt">Look your server log!</string>
+</resources>
